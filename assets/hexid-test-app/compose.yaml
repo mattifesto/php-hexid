@@ -1,0 +1,9 @@
+name:
+  hexid-test-app-project
+
+services:
+
+  hexid-test-app-service:
+    build:
+      context: .
+      target: hexid-test-app
