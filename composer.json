@@ -1,0 +1,19 @@
+{
+    "name": "mattifesto/hexid",
+    "description": "A library to generate cryptographically random hexadecimal IDs",
+    "type": "library",
+    "require": {
+        "php": "^8.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "Mattifesto\\HexID\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Matt Calkins",
+            "email": "matt@mattifesto.com"
+        }
+    ]
+}
